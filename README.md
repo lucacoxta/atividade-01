@@ -15,4 +15,5 @@ ATIVIDADE:
 
 A atividade “Conhecendo HTML e hospedando uma página na WEB” deverá ser realizada através da criação de uma página HTML simples e sua publicação no Github.io, depois de criada e hospedada a página o aluno deverá disponibilizar o link de acesso para esta página, bem como o repositório onde a mesma está armazenada.
 
-Link para acessar a página: https://lucacoxta.github.io/TTechPR---Atividade-01/
+Link para acessar a página:
+https://lucacoxta.github.io/atividade-01/
