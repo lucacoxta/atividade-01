@@ -1,0 +1,61 @@
+/* Resetando margens e preenchimento */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif; /* Fonte básica */
+  background-color: #f4f4f4;
+  line-height: 1.6;
+  color: #333;
+}
+
+header {
+  background-color: #ff6347; /* Cor de fundo de tomate */
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  font-size: 2rem;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.column {
+  width: 48%;
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+}
+
+.left {
+  background-color: #f9f9f9;
+}
+
+.right {
+  background-color: #ffe4b5;
+}
+
+footer {
+  background-color: #ff6347;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .column {
+    width: 100%;
+  }
+}
