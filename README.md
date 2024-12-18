@@ -1,19 +1,25 @@
-Atividade 1: Conhecendo HTML e hospedando uma página na WEB
+# Atividade 1: Conhecendo HTML e Hospedando uma Página na WEB
 
-Criação e hospedagem da primeira página HTML
-Nessa atividade é apresentado o passo-a-passo para criação de uma página HTML e sua respectiva hospedagem. Todos os procedimentos devem ser executados para que o ambiente de trabalho do curso fique funcional no que diz respeito à hospedagem das páginas produzidas.
+## Descrição da Atividade
 
-Para conseguir criar sua primeira página HTML você deve:
+Nesta atividade, o objetivo é criar e hospedar sua primeira página HTML. Durante o processo, você aprenderá os conceitos básicos de HTML, gerenciamento de repositórios com Git, e como publicar páginas usando o GitHub Pages. Ao final, sua página estará online e acessível para todos.
 
-Assistir as Vídeos aulas:
-Introdução HTML
-Gerenciamento GIT
-Upload de páginas html
-Acessar o ambiente de desenvolvimento da W3Schools. O HTML é uma linguagem de programação de alto nível, interpretada, de propósito geral e conhecida por sua sintaxe baseada em tags, o que a torna uma excelente escolha tanto para iniciantes quanto para programadores experientes. 
-Nas atividades propostas utilizaremos também a hospedagem do Github que é um ambiente de auxílio ao desenvolvimento que usa a plataforma da internet para criação de repositórios.
-ATIVIDADE:
+---
 
-A atividade “Conhecendo HTML e hospedando uma página na WEB” deverá ser realizada através da criação de uma página HTML simples e sua publicação no Github.io, depois de criada e hospedada a página o aluno deverá disponibilizar o link de acesso para esta página, bem como o repositório onde a mesma está armazenada.
+## Objetivos
+
+- **Criar uma página HTML simples**: Usar o conhecimento básico da linguagem HTML.
+- **Hospedar a página**: Publicar o conteúdo utilizando a plataforma GitHub Pages.
+- **Compartilhar o resultado**: Disponibilizar o link da página hospedada e do repositório onde o código está armazenado.
+
+## Requisitos
+
+- Uma página HTML simples, contendo no mínimo:
+  - Estrutura básica do HTML (`<html>`, `<head>`, `<body>`).
+  - Um título visível no navegador.
+  - Um parágrafo de texto.
+- Repositório configurado no GitHub.
+- Página publicada no GitHub Pages.
 
 Link para acessar a página:
 https://lucacoxta.github.io/atividade-01/
